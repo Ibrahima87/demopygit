@@ -6,7 +6,7 @@ def something():
 
     a =  input("Enter something")
 
-    b = input("Enter something")
+    b = input("Enter something again")
 
     print(a+b)
 
